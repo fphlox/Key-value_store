@@ -1,0 +1,5 @@
+key1 \"Vasilev\" \"Ivan\" 2001 \" Rostov\" 55
+key2 \"Ivanov\" \"Vasiliy\" 2000 \"Москва\" 55
+key9 Nope
+key101 \" Sidorov\" \"Sergei\" 1847 \"Suzdal\" 12312313
+AAA \"Lalka\" \"Lolnya\" 3000 \"Hrenograd\" 0
